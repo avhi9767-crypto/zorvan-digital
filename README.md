@@ -1,1 +1,11 @@
-# Zorvan Digital website\n\nFiles: `index.html`, `style.css`, `script.js`, and `assets/zorvan-logo.png`.\n\n## Publish using GitHub Pages\n1. Extract this ZIP on your computer.\n2. Upload `index.html`, `style.css`, `script.js`, and the complete `assets` folder to the ROOT of your GitHub repository. Do not put them inside an extra folder.\n3. Confirm `index.html` is visible on the repository Code page.\n4. Go to Settings → Pages. Choose “Deploy from a branch”, branch `main`, folder `/(root)`, then Save.\n5. Wait a few minutes and open the URL shown on the Pages settings page.\n\nContact details in the website: WhatsApp +92 348 9397502; email avhi9767@gmail.com.
+ZORVAN DIGITAL — EASY UPLOAD WEBSITE
+Upload these files directly to the ROOT of your GitHub repository:
+1. index.html
+2. style.css
+3. script.js
+4. zorvan-logo.png
+No assets folder is needed in this version.
+
+GitHub: Repository → Code → Add file → Upload files → select the 4 files → Commit changes.
+Then Settings → Pages → Deploy from a branch → main → /(root) → Save.
+Contact: WhatsApp +92 348 9397502; email avhi9767@gmail.com.
