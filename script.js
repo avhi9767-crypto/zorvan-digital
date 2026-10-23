@@ -1,7 +1,7 @@
 // Zorvan Digital website interactions
 // IMPORTANT: Replace these placeholders with your real business contact details before publishing.
-const WHATSAPP_NUMBER = ""; // Example format: 923001234567 (country code, no + or spaces)
-const BUSINESS_EMAIL = "hello@zorvandigital.com";
+const WHATSAPP_NUMBER = ""; // Example format: 923489397502(country code, no + or spaces)
+const BUSINESS_EMAIL = "avhi9767@gmail.com";
 
 const menuToggle = document.querySelector(".menu-toggle");
 const navLinks = document.querySelector("#navLinks");
